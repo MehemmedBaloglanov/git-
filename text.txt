@@ -1,1 +1,3 @@
-hello git in master 
+hello git in master
+
+some text from branch 1
