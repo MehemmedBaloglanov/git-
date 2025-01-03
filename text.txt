@@ -1,4 +1,4 @@
 hello git in master
 
 
-some text from branch1
+some text from branch2
